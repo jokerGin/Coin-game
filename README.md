@@ -1,2 +1,3 @@
 # Coin-game
-A simple game to exercise python loops
+A simple python game
+Exercises on python loops and if conditions
